@@ -1,0 +1,7 @@
+# Ignore binary file
+*
+
+!*.*
+
+# Ignore linking 
+*.o
